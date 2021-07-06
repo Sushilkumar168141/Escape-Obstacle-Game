@@ -17,5 +17,16 @@ In this game, the player  is characterized as a ball. Player has  to  avoid  obs
 12. Player can use golden ball if he is in  the  1st  position  in  the  overall leaderboard.
 13. Player can use  golden  obstacle if he was on top of the leaderboard anytime even  once.
 
+# ![inventory ball](https://user-images.githubusercontent.com/41999180/124603750-e5a9e500-de87-11eb-8837-b1f9c4f55792.jpg)
+# ![inventory obstacles](https://user-images.githubusercontent.com/41999180/124603759-e6db1200-de87-11eb-8a41-2c6ba4812228.jpg)
+# ![opportunity](https://user-images.githubusercontent.com/41999180/124603761-e773a880-de87-11eb-9de9-e22cc20df3d9.jpg)
+# ![settings](https://user-images.githubusercontent.com/41999180/124603765-e80c3f00-de87-11eb-965f-982301a834a0.jpg)
+# ![controls](https://user-images.githubusercontent.com/41999180/124603768-e80c3f00-de87-11eb-82e7-75f5c3c0fb53.jpg)
+# ![game initial](https://user-images.githubusercontent.com/41999180/124603769-e8a4d580-de87-11eb-8505-8cd31770adbf.jpg)
+# ![game over](https://user-images.githubusercontent.com/41999180/124603772-e93d6c00-de87-11eb-95dc-1ba5fd18a0f5.jpg)
+# ![Game](https://user-images.githubusercontent.com/41999180/124603773-e93d6c00-de87-11eb-93b1-4c29619cbec1.jpg)
+# ![home](https://user-images.githubusercontent.com/41999180/124603775-e9d60280-de87-11eb-9aac-c5228e05fd94.jpg)
+
+
 Developed By : Sushil Kumar 
 sushilkumar168141@gmail.com

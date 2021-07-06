@@ -1,0 +1,42 @@
+fileFormatVersion: 2
+guid: 4d54a5c4a1706394e82d2d0f2949582c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lemonada
+  fontNames:
+  - Lemonada
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f5a51e30779381d43b0a1d7a15a67360, type: 3}
+  - {fileID: 12800000, guid: 51aea760b0f849847873f04f5366582b, type: 3}
+  - {fileID: 12800000, guid: ea8f91f07a67840409c8521462a0ffec, type: 3}
+  - {fileID: 12800000, guid: 25ed6821aa8f3f3498b5ea8a322e6c67, type: 3}
+  - {fileID: 12800000, guid: 91e1523147af3e94e90e445a64e3d13c, type: 3}
+  - {fileID: 12800000, guid: 25bf50b2e3dda0b4694ccc3f754be7d7, type: 3}
+  - {fileID: 12800000, guid: 4680e8635037ffc43a7c8ad504201458, type: 3}
+  - {fileID: 12800000, guid: 930b50d36e290e64c886ad887d588f91, type: 3}
+  - {fileID: 12800000, guid: d9112116fa6884e46b911ea1953465ec, type: 3}
+  - {fileID: 12800000, guid: aaed5b368ffbb5249ba32a8f460eaa07, type: 3}
+  - {fileID: 12800000, guid: 5f462f2704c18eb458ce5698f06b7cc5, type: 3}
+  - {fileID: 12800000, guid: b495f71949775fa43bee0baf99ee642c, type: 3}
+  - {fileID: 12800000, guid: 2ca1f899266181c4897f0a2205866013, type: 3}
+  - {fileID: 12800000, guid: b76dd55af8a30c04ba9db9f78d5f0727, type: 3}
+  - {fileID: 12800000, guid: d302665a0fabd144991009bdcfede279, type: 3}
+  - {fileID: 12800000, guid: c0d5cf8b73c3e984083ddfcde46706b6, type: 3}
+  - {fileID: 12800000, guid: c08d0fdcd608df74585a4fcea8e3c7d4, type: 3}
+  - {fileID: 12800000, guid: e0f1d11d0c13199468d84b7b73646b16, type: 3}
+  - {fileID: 12800000, guid: a2db5f3eb3464dd4d930de5762f04370, type: 3}
+  - {fileID: 12800000, guid: 988666de533a3b14eaca7b9e3403988a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

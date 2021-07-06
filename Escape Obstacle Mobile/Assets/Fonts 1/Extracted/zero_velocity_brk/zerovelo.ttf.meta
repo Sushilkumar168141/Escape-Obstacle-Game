@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2dd7a86f223678a41aab906dc9072c51
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zero Velocity BRK
+  fontNames:
+  - Zero Velocity BRK
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5179f2b0bbd529548b3087c439279311, type: 3}
+  - {fileID: 12800000, guid: 96b01e1458954d0419fec8aacd5f1291, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

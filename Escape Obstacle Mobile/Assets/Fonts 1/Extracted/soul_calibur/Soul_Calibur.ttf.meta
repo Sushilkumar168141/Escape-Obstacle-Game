@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 8316b24cad28ff04689c16fa75864b78
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SoulCalibuR
+  fontNames:
+  - SoulCalibuR
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6c400f4ccc880444196ac3e4d4bc7e1f, type: 3}
+  - {fileID: 12800000, guid: 61fa620de06e4f74c9a5630c1693cabf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

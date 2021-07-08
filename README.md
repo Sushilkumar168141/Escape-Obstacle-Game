@@ -17,15 +17,17 @@ In this game, the player  is characterized as a ball. Player has  to  avoid  obs
 12. Player can use golden ball if he is in  the  1st  position  in  the  overall leaderboard.
 13. Player can use  golden  obstacle if he was on top of the leaderboard anytime even  once.
 
-# ![inventory ball](https://user-images.githubusercontent.com/41999180/124603750-e5a9e500-de87-11eb-8837-b1f9c4f55792.jpg)
-# ![inventory obstacles](https://user-images.githubusercontent.com/41999180/124603759-e6db1200-de87-11eb-8a41-2c6ba4812228.jpg)
-# ![opportunity](https://user-images.githubusercontent.com/41999180/124603761-e773a880-de87-11eb-9de9-e22cc20df3d9.jpg)
-# ![settings](https://user-images.githubusercontent.com/41999180/124603765-e80c3f00-de87-11eb-965f-982301a834a0.jpg)
-# ![controls](https://user-images.githubusercontent.com/41999180/124603768-e80c3f00-de87-11eb-82e7-75f5c3c0fb53.jpg)
-# ![game initial](https://user-images.githubusercontent.com/41999180/124603769-e8a4d580-de87-11eb-8505-8cd31770adbf.jpg)
-# ![game over](https://user-images.githubusercontent.com/41999180/124603772-e93d6c00-de87-11eb-95dc-1ba5fd18a0f5.jpg)
-# ![Game](https://user-images.githubusercontent.com/41999180/124603773-e93d6c00-de87-11eb-93b1-4c29619cbec1.jpg)
-# ![home](https://user-images.githubusercontent.com/41999180/124603775-e9d60280-de87-11eb-9aac-c5228e05fd94.jpg)
+Screenshots of game: <br>
+![home](https://user-images.githubusercontent.com/41999180/124989839-345ca800-e05d-11eb-9151-0563611794ac.jpg)&nbsp;&nbsp;&nbsp;&nbsp;
+![inventory ball](https://user-images.githubusercontent.com/41999180/124989858-3aeb1f80-e05d-11eb-9eae-9d45ffdfa671.jpg)&nbsp;&nbsp;&nbsp;&nbsp;
+![inventory obstacles](https://user-images.githubusercontent.com/41999180/124989864-3c1c4c80-e05d-11eb-9c05-97a020fda4b6.jpg)&nbsp;&nbsp;&nbsp;&nbsp;
+![settings](https://user-images.githubusercontent.com/41999180/124989876-40e10080-e05d-11eb-8608-4d715990115d.jpg)&nbsp;&nbsp;&nbsp;&nbsp;
+![controls](https://user-images.githubusercontent.com/41999180/124989882-41799700-e05d-11eb-8af9-b92fdee44325.jpg)&nbsp;&nbsp;&nbsp;&nbsp;
+![game initial](https://user-images.githubusercontent.com/41999180/124989897-463e4b00-e05d-11eb-9d93-846ed244c05b.jpg)&nbsp;&nbsp;&nbsp;&nbsp;
+![Game](https://user-images.githubusercontent.com/41999180/124989902-48080e80-e05d-11eb-9fce-8e46eec61c2f.jpg)&nbsp;&nbsp;&nbsp;&nbsp;
+![opportunity](https://user-images.githubusercontent.com/41999180/124989908-4b9b9580-e05d-11eb-838c-1b842c65589c.jpg)&nbsp;&nbsp;&nbsp;&nbsp;
+![game over](https://user-images.githubusercontent.com/41999180/124989919-4dfdef80-e05d-11eb-9fb7-2747f588d247.jpg)&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
 Developed By : Sushil Kumar 

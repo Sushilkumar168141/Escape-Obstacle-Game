@@ -17,6 +17,7 @@ In this game, the player  is characterized as a ball. Player has  to  avoid  obs
 12. Player can use golden ball if he is in  the  1st  position  in  the  overall leaderboard.
 13. Player can use  golden  obstacle if he was on top of the leaderboard anytime even  once.
 
+
 Screenshots of game: <br>
 ![home](https://user-images.githubusercontent.com/41999180/124989839-345ca800-e05d-11eb-9151-0563611794ac.jpg)&nbsp;&nbsp;&nbsp;&nbsp;
 ![inventory ball](https://user-images.githubusercontent.com/41999180/124989858-3aeb1f80-e05d-11eb-9eae-9d45ffdfa671.jpg)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,5 +31,7 @@ Screenshots of game: <br>
 
 
 
+
+**Game can be downloaded from : https://sushil-kumar.itch.io/escape-obstacle** <br>
 Developed By : Sushil Kumar 
 sushilkumar168141@gmail.com
